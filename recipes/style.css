@@ -1,55 +1,53 @@
 /* biryani CSS */
 
-h1 {
+.biryani h1 {
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   color: green;
 }
-h2 {
+.biryani h2 {
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
-
   color: green;
 }
 
-img {
+.biryani img {
   width: 300px;
   height: 300px;
 }
 
 /* burger CSS */
 
-h1 {
+.burger h1 {
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   color: orange;
 }
-h2 {
+.burger h2 {
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
-
   color: orange;
 }
 
-img {
-  width: 300px;
-  height: 400px;
+.burger img {
+  width: 500px;
+  height: 600px;
 }
 
 /* lasagna CSS */
 
-h1 {
+.lasagna h1 {
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   color: red;
 }
-h2 {
+.lasagna h2 {
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
   color: red;
 }
 
-img {
+.lasagna img {
   width: 600px;
   height: 400px;
 }
